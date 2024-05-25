@@ -1,7 +1,10 @@
-I program on a daily basis in my free time.
+I like to code regularly and I'm interested in trying new things.
 
-#### Programming languages:
-- Python, My main language
-- Javascript, Learning
-- Unity C#, Able to do a some things
-- Lua, Dont know much
+#### Programming Languages
+##### Used:
+- Python (I use this for most projects)
+##### Learning:
+- React JS
+- Roblox Lua
+##### Interested:
+- Unity C# (I haven't used it in a while, but I'd like to try again one day)
